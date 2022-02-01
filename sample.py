@@ -2,7 +2,7 @@
 
 num1 = 1.5
 num2 = 6.4
-num3 = 8
+num3 = 9
 
 # Add two numbers
 sum = num1 + num2 + num3
